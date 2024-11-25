@@ -1,0 +1,245 @@
+﻿.block-title {
+    font-size: 24px;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 24px;
+
+    @media(max-width: 768px) {
+        font-size: 20px;
+    }
+}
+
+.content-item {
+    padding: 0 16px;
+    margin-top: 65px;
+}
+
+.form-wrapper {
+}
+
+.split {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+
+    @media(max-width: 991px) {
+        flex-direction: column;
+        margin-bottom: 0;
+    }
+}
+
+.form-block {
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+    width: calc(50% - 16px);
+
+    @media(max-width: 1549px) {
+        width: calc(50% - 8px);
+    }
+
+    @media(max-width: 991px) {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+}
+
+.form-input-choice-wrapper {
+    display: flex;
+
+    .primary-btn {
+        width: 32px;
+        height: 32px;
+        padding: 6px;
+
+        &.add-btn-choice {
+            margin-right: 4px;
+        }
+    }
+}
+
+
+.form-input {
+    border: 1px solid $primary-border-color;
+    border-radius: $primary-border-radius;
+    padding: 6px 8px;
+}
+
+.form-input-choice {
+    display: flex;
+    width: 696px;
+    margin-right: 4px;
+    position: relative;
+    padding-right: 30px;
+    padding-top: 2px;
+    padding-left: 4px;
+    padding-bottom: 2px;
+    border: 1px solid $primary-border-color;
+    border-radius: $primary-border-radius;
+    flex-wrap: wrap;
+
+
+    .search-form-icon {
+        position: absolute;
+        right: 6px;
+        top: 7px;
+    }
+}
+
+.choice-item {
+    background-color: $third-background-color;
+    border: 1px solid $secondary-border-color;
+    padding: 2px 8px;
+    display: flex;
+    border-radius: $primary-border-radius;
+    height: 24px;
+    align-items: center;
+    font-size: 14px;
+    margin: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+
+    @media(max-width: 450px) {
+        max-width: 185px;
+    }
+
+    span {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+.main-label {
+    font-weight: 600;
+    margin-bottom: 6px;
+
+    i {
+        color: $important-color-text;
+        margin-right: 4px;
+    }
+}
+
+.concordants-block {
+    .choice-item {
+        padding-right: 32px;
+        position: relative;
+    }
+
+    .delete-item-btn {
+        border: none;
+        background-color: transparent;
+        display: flex;
+        width: 16px;
+        height: 16px;
+        padding: 0;
+        position: absolute;
+        right: 5px;
+    }
+
+    .form-input-choice {
+        width: 96%;
+    }
+}
+
+.date-form {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+
+    .small-btn {
+        margin-left: 4px;
+    }
+
+    input {
+        width: 95%;
+    }
+}
+
+@media(max-width: 768px) {
+    .right-side {
+        display: none;
+    }
+
+    .left-side {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+
+// modal
+
+.modal-create {
+    .mobile-close {
+        display: none;
+    }
+
+    .modal-dialog {
+        max-width: 800px;
+    }
+
+    .modal-header {
+        border-bottom: none;
+    }
+
+    .modal-title {
+        width: 100%;
+        display: flex;
+    }
+
+    .save-btn {
+        margin-left: auto;
+        margin-right: 4px;
+    }
+
+    .modal-footer {
+        display: none;
+    }
+
+    .form-block {
+        &:last-child {
+            margin: 0;
+        }
+    }
+
+    @media(max-width: 767px) {
+        .modal-dialog {
+            max-width: none !important;
+            width: 95%;
+        }
+
+        .mobile-close {
+            display: flex !important;
+            margin-left: auto;
+            background-color: transparent;
+            border: 1px solid $primary-border-color;
+            padding: 6px;
+            width: 32px;
+            height: 32px;
+            border-radius: 4px;
+            justify-content: center;
+        }
+    }
+
+    @media(max-width: 426px) {
+        .modal-footer {
+            display: flex;
+            border-top: none;
+            padding-top: 0;
+
+            .secondary-btn {
+                margin-bottom: 16px;
+            }
+        }
+
+        .modal-title {
+            button {
+                display: none;
+            }
+        }
+    }
+}

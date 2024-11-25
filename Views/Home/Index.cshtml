@@ -1,0 +1,435 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="sub-heading">
+    <div class="left-side">
+        <span class="task-name">Подзадача</span>
+        <button class="primary-btn btn-create" data-bs-toggle="modal" data-bs-target="#modal" type="button">Создать</button>
+    </div>
+    <div class="right-side">
+        <button class="secondary-btn save-btn">Сохранить</button>
+        <button class="primary-btn">Сохранить и выйти</button>
+    </div>
+</div>
+<div class="content-item">
+    <h1 class="block-title">STSK0004783 На инциденте, запросе, проблеме, в статусе закрыто некоторые поля остаются редактируемыми для агента если он Caller</h1>
+    <form>
+        <div class="form-wrapper">
+            <div class="split">
+                <div class="form-block">
+                    <label class="main-label"><i>*</i>Тема</label>
+                    <input class="form-input" placeholder="На инциденте, запросе, проблеме, в статусе закрыто некоторые поля остаются редактируемыми для агента если он Caller" />
+                </div>
+                <div class="form-block">
+                    <label class="main-label">Статус</label>
+                    <input class="form-input" placeholder="Новая" />
+                </div>
+            </div>
+            <div class="split">
+                <div class="form-block">
+                    <label class="main-label">Описание</label>
+                    <input class="form-input" />
+                </div>
+                <div class="form-block">
+                    <label class="main-label">Продукт</label>
+                    <input class="form-input" placeholder="Platform" />
+                </div>
+            </div>
+            <div class="split">
+                <div class="form-block">
+                    <label class="main-label"><i>*</i>Рабочие заметки</label>
+                    <input class="form-input" placeholder="Проверить ACL id=172830402014193655" />
+                </div>
+                <div class="form-block">
+                    <label class="main-label">Приоритет</label>
+                    <input class="form-input" placeholder="Средний" />
+                </div>
+            </div>
+            <div class="split">
+                <div class="form-block">
+                    <label class="main-label">Ответственный</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item"><span>Константин Константинопольский</span></div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block">
+                    <label class="main-label">Группа</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">Support Group</div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+            </div>
+            <div class="split">
+                <div class="form-block w-100">
+                    <label class="main-label">Комментарии</label>
+                    <input class="form-input" />
+                </div>
+            </div>
+            <div class="split">
+                <div class="form-block concordants-block w-100">
+                    <label class="main-label">Согласующие</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">
+                                <span>
+                                    Андрей Пивоваров
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Максим Галактионов
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Алла Лин
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Константин Константинопольский Константинович
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Игорь Иванченко
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                Юлия Эйчаровна
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Артём Подпрыгайко-Саппортов
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Илья Вазнец
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Михаил Вортенов
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Наталья Нашевна
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                Евгения Итамовна
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Алиса Киральчук
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+            </div>
+            <div class="split">
+                <div class="form-block">
+                    <label class="main-label">Когда открыто</label>
+                    <div class="date-form">
+                        <input class="form-input" />
+                        <button class="small-btn"><img src="~/img/index/calendar.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block">
+                    <label class="main-label">Когда создано</label>
+                    <div class="date-form">
+                        <input class="form-input" placeholder="22.10.2024" />
+                        <button class="small-btn"><img src="~/img/index/calendar.svg"></button>
+                    </div>
+                </div>
+            </div>
+            <div class="split">
+                <div class="form-block">
+                    <label class="main-label">Кем открыто</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">Андрей Пивоваров</div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block">
+                    <label class="main-label">Кем создано</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">Андрей Пивоваров</div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="modal modal-create fade" id="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Подзадача
+                    <button class="secondary-btn save-btn">Сохранить</button>
+                    <button class="primary-btn" data-bs-dismiss="modal">Отменить</button>
+                    <button class="close mobile-close" data-bs-dismiss="modal">
+                        <span>&times;</span>
+                    </button>
+                </h5>
+            </div>
+            <div class="modal-body">
+                <div class="form-block w-100">
+                    <label class="main-label"><i>*</i>Тема</label>
+                    <input class="form-input" placeholder="На инциденте, запросе, проблеме, в статусе закрыто некоторые поля остаются редактируемыми для агента если он Caller" />
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Статус</label>
+                    <input class="form-input" placeholder="Новая" />
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Описание</label>
+                    <input class="form-input" />
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Продукт</label>
+                    <input class="form-input" placeholder="Platform" />
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label"><i>*</i>Рабочие заметки</label>
+                    <input class="form-input" placeholder="Проверить ACL id=172830402014193655" />
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Приоритет</label>
+                    <input class="form-input" placeholder="Средний" />
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Ответственный</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item"><span>Константин Константинопольский</span></div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Группа</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">Support Group</div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Комментарии</label>
+                    <input class="form-input" />
+                </div>
+                <div class="form-block concordants-block w-100">
+                    <label class="main-label">Согласующие</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">
+                                <span>
+                                    Андрей Пивоваров
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Максим Галактионов
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Алла Лин
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Константин Константинопольский Константинович
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Игорь Иванченко
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                Юлия Эйчаровна
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Артём Подпрыгайко-Саппортов
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Илья Вазнец
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Михаил Вортенов
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Наталья Нашевна
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                Евгения Итамовна
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <div class="choice-item">
+                                <span>
+                                    Алиса Киральчук
+                                </span>
+                                <button class="delete-item-btn">
+                                    <img src="~/img/index/delete.svg" />
+                                </button>
+                            </div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Когда открыто</label>
+                    <div class="date-form">
+                        <input class="form-input" />
+                        <button class="small-btn"><img src="~/img/index/calendar.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Когда создано</label>
+                    <div class="date-form">
+                        <input class="form-input" placeholder="22.10.2024" />
+                        <button class="small-btn"><img src="~/img/index/calendar.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Кем открыто</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">Андрей Пивоваров</div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+                <div class="form-block w-100">
+                    <label class="main-label">Кем создано</label>
+                    <div class="form-input-choice-wrapper">
+                        <div class="form-input-choice">
+                            <div class="choice-item">Андрей Пивоваров</div>
+                            <img class="search-form-icon" src="~/img/index/micro-delete-icon.svg">
+                        </div>
+                        <button class="primary-btn add-btn-choice"><img src="~/img/index/add-icon.svg"></button>
+                        <button class="primary-btn"><img src="~/img/index/search-icon.svg"></button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="secondary-btn w-100">Сохранить</button>
+                <button class="primary-btn w-100" data-bs-dismiss="modal">Отменить</button>
+            </div>
+        </div>
+    </div>
+</div>

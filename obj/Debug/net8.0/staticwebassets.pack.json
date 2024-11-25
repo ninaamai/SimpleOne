@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleOne_Maiboroda.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SimpleOne_Maiboroda.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Italic.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Light.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Medium.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\fonts\\OpenSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\header\\person.png",
+      "PackagePath": "staticwebassets\\img\\header\\person.png"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\header\\search.png",
+      "PackagePath": "staticwebassets\\img\\header\\search.png"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\header\\settings-icon.svg",
+      "PackagePath": "staticwebassets\\img\\header\\settings-icon.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\index\\add-icon.svg",
+      "PackagePath": "staticwebassets\\img\\index\\add-icon.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\index\\calendar.svg",
+      "PackagePath": "staticwebassets\\img\\index\\calendar.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\index\\delete.svg",
+      "PackagePath": "staticwebassets\\img\\index\\delete.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\index\\micro-delete-icon.svg",
+      "PackagePath": "staticwebassets\\img\\index\\micro-delete-icon.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\index\\search-icon.svg",
+      "PackagePath": "staticwebassets\\img\\index\\search-icon.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\sidebar\\arrow.svg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\arrow.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\sidebar\\filter-icon.svg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\filter-icon.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\sidebar\\menu.svg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\menu.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\sidebar\\no-pin.svg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\no-pin.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\img\\sidebar\\star.svg",
+      "PackagePath": "staticwebassets\\img\\sidebar\\star.svg"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\fonts.scss",
+      "PackagePath": "staticwebassets\\scss\\fonts.scss"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\header.scss",
+      "PackagePath": "staticwebassets\\scss\\header.scss"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\index.scss",
+      "PackagePath": "staticwebassets\\scss\\index.scss"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\normalize.scss",
+      "PackagePath": "staticwebassets\\scss\\normalize.scss"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\scaffolding.scss",
+      "PackagePath": "staticwebassets\\scss\\scaffolding.scss"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\sidebar.scss"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\style.css",
+      "PackagePath": "staticwebassets\\scss\\style.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\style.min.css",
+      "PackagePath": "staticwebassets\\scss\\style.min.css"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\SimpleOne_Maiboroda\\wwwroot\\scss\\variables.scss",
+      "PackagePath": "staticwebassets\\scss\\variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimpleOne_Maiboroda.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimpleOne_Maiboroda.props",
+      "PackagePath": "build\\SimpleOne_Maiboroda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimpleOne_Maiboroda.props",
+      "PackagePath": "buildMultiTargeting\\SimpleOne_Maiboroda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimpleOne_Maiboroda.props",
+      "PackagePath": "buildTransitive\\SimpleOne_Maiboroda.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

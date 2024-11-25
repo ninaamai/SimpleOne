@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleOne_Maiboroda", "SimpleOne_Maiboroda.csproj", "{00B7D9C6-0EED-4A64-9CBD-90B477F2861D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B7D9C6-0EED-4A64-9CBD-90B477F2861D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B7D9C6-0EED-4A64-9CBD-90B477F2861D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B7D9C6-0EED-4A64-9CBD-90B477F2861D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B7D9C6-0EED-4A64-9CBD-90B477F2861D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73789E98-9636-41E9-B949-96A43274AC54}
+	EndGlobalSection
+EndGlobal

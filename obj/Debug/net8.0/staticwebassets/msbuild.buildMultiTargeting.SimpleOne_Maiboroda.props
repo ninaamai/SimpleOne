@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SimpleOne_Maiboroda.props" />
+</Project>

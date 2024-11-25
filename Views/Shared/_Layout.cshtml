@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SimpleOne_Maiboroda</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/scss/style.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SimpleOne_Maiboroda.styles.css" asp-append-version="true" />
+    @* <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"> *@
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white">
+            <div class="container-fluid">
+                <a class="logo-icon" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/img/logo.svg" />
+                </a>
+                <button class="primary-btn mobile-btn-menu">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path class="aa" fill-rule="evenodd" clip-rule="evenodd" d="M5 22C3.34315 22 2 20.6569 2 19V5C2 3.34315 3.34315 2 5 2H19C20.6569 2 22 3.34315 22 5V19C22 20.6569 20.6569 22 19 22H5ZM4 5C4 4.44772 4.44772 4 5 4H8V20H5C4.44772 20 4 19.5523 4 19V5ZM10 20V4H19C19.5523 4 20 4.44772 20 5V19C20 19.5523 19.5523 20 19 20H10Z" fill="#005999" />
+                    </svg>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
+                    @* <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    </li>
+                    </ul> *@
+                    <div class="input-search-wrapper">
+                        <span class="icon"> <img src="~/img/header/search.png" /></span>
+                        <input type="search" placeholder="Поиск" />
+                    </div>
+                    <div class="profile-wrapper">
+
+                        <img src="~/img/header/person.png" />
+                        <span class="username">Максим Галактионов</span>
+
+                    </div>
+                    <div class="settings-wrapper">
+                        <img src="~/img/header/settings-icon.svg" />
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="main-wrapper">
+        <div class="sidebar-wrapper">
+            <nav class="sidebar">
+                <div class="menu-item">
+                    <img src="~/img/sidebar/menu.svg" />
+                </div>
+                <div class="menu-item">
+                    <img src="~/img/sidebar/star.svg" />
+                </div>
+            </nav>
+            <div class="sidebar-content">
+                <div class="filter-wrapper">
+                    <div class="input-filter-wrapper">
+                        <span class="icon"> <img src="~/img/sidebar/filter-icon.svg" /></span>
+                        <input type="search" placeholder="Поиск по меню" />
+                    </div>
+                    <button class="filter-btn" type="button"><img src="~/img/sidebar/no-pin.svg" /></button>
+                </div>
+                <div class="nav-list">
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Моя работа</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Структура портала</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Личное расписание</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Отсутствие на рабочем месте</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Портфель услуг</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Дашборды</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Доски задач</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Обращения</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>События</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Инциденты</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Проблемы</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Настройка каталогов</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Запосы на обслуживания</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Управление конфигурациями</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Управление уровнем услуг</span>
+                    </div>
+                    <div class="nav-item">
+                        <img src="~/img/sidebar/arrow.svg">
+                        <span>Настройка соответствий</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+
+            <main role="main" class="pb-3">
+
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+
+    <footer class="border-top footer text-muted">
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+<script>
+    const targetElement = document.querySelector('.sub-heading');
+
+    function toggleClassOnScroll() {
+        const scrollPosition = window.scrollY; 
+        const threshold = 10; 
+
+        if (scrollPosition > threshold) {
+            targetElement.classList.add('scrolled');
+        } else {
+            targetElement.classList.remove('scrolled');
+        }
+    }
+
+    window.addEventListener('scroll', toggleClassOnScroll);
+</script>

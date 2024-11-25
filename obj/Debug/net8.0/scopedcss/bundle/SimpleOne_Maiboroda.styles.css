@@ -1,0 +1,49 @@
+/* _content/SimpleOne_Maiboroda/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-qt8ph1ttga] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-qt8ph1ttga] {
+  color: #0077cc;
+}
+
+.btn-primary[b-qt8ph1ttga] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-qt8ph1ttga], .nav-pills .show > .nav-link[b-qt8ph1ttga] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-qt8ph1ttga] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-qt8ph1ttga] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-qt8ph1ttga] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-qt8ph1ttga] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-qt8ph1ttga] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
